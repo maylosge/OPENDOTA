@@ -2,9 +2,7 @@
 
 
 
-     <!DOCTYPE html>
-          <html>
-          <head>
+
             <title>Запуск Dota 2</title>
             <script>
               window.location.href = "steam://rungameid/570";
