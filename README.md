@@ -1,13 +1,16 @@
 Открытие стима
-<!DOCTYPE html>
-     <html>
-     <head>
-       <title>Запуск Dota 2</title>
-       <script>
-         window.location.href = "steam://rungameid/570";
-       </script>
-     </head>
-     <body>
-       <p>Переадресация в Steam...</p>
-     </body>
-     </html>
+
+
+
+     <!DOCTYPE html>
+          <html>
+          <head>
+            <title>Запуск Dota 2</title>
+            <script>
+              window.location.href = "steam://rungameid/570";
+            </script>
+          </head>
+          <body>
+            <p>Переадресация в Steam...</p>
+          </body>
+          </html>
